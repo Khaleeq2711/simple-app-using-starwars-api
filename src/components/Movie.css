@@ -1,0 +1,9 @@
+.movie {
+  margin: 1% 0%;
+  height: 12%;
+  width: auto;
+  background-color: aqua;
+  border: 2px solid black;
+  border-radius: 20px;
+  font-weight: bolder;
+}
